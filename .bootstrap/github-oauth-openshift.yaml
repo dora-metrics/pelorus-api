@@ -5,4 +5,4 @@ metadata:
   namespace: openshift-config
 type: Opaque
 stringData:
-  clientSecret: ${GITHUB_OAUTH_OPENSHIFT}
+  clientSecret: ${GITHUB_OAUTH_OPENSHIFT_SECRET}
